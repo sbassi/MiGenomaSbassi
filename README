@@ -1,0 +1,15 @@
+Introduction
+------------
+
+This git repository contains the genetic information for Sebastian Bassi, as raw data provided by 23andme.com.
+
+As far as I know, I am the first Argentine in releasing his genomic data for free to share to the world (see license terms at the end of this file).
+
+This dataset contains about 1M genetic markers that can be used to study resistance to diseases, carrier status of several conditions and physical traits. I am releasing this data following Manu Sporny example (http://manu.sporny.org/2011/public-domain-genome/), with the same wish: Helping researchers to know more about human genetics and helping open source developers like me with real data to play with.
+
+About me: I am a biotechnologist working as a software developer at Globant. I am author of DNALinux.com, py4bio.com (Python for Bioinformatics book) and contributed to Biopython. I live in Argentina with my wife Virginia Gonzalez and my son Maximo Bassi, but I am currently working in Glendale, California.
+
+Email: sbassi@genesdigitales.com
+Twitter: sbassi
+
+License of the data: Creative Commons Attribution-ShareAlike 3.0 Unported License.
